@@ -1,0 +1,26 @@
+[
+    {
+        "podcastName": "flow",
+        "episodio": "MENTIRAM PRA VOCÊ SOBRE INTELIGÊNCIA ARTIFICIAL [com Fabio Akita]",
+        "videoId": "sf4Gxf0LiKo",
+        "category": [
+            "IA, Tecnologia"
+        ]
+    },
+    {
+        "podcastName": "flow",
+        "episodio": "O QUE ESPERAR DO JULGAMENTO DO BOLSONARO? [com Eduardo Oinegue]",
+        "videoId": "MYg1VYJ2fS8",
+        "category": [
+            "Politica"
+        ]
+    },
+    {
+        "podcastName": "flow",
+        "episodio": "TUDO SOBRE NOTÍCIAS FALSAS E A POLÊMICA DO JORNALISMO [com Allan dos Santos]",
+        "videoId": "MYg1VYJ2fS8",
+        "category": [
+            "Politica"
+        ]
+    }
+]

@@ -1,0 +1,22 @@
+{
+  "name": "podcast-app",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsx --env-file=.env.dev src/server.ts",
+    "start:watch": "tsx --env-file=.env.dev --watch src/server.ts",
+    "dist": "tsup src",
+    "start:dist": "npm run dist && node dist/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^24.0.4",
+    "tsup": "^8.5.0",
+    "tsx": "^4.20.3",
+    "typescript": "^5.8.3"
+  }
+}
